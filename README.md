@@ -20,15 +20,15 @@ This project processes a Clinical Text Classification dataset (`mtsamples.csv`) 
 
 ###  Requirements
 
-- Python 3.8+ in Google Colab
+- Python 3 in Google Colab
 - [Replicate API Token](https://replicate.com/account/api-tokens)
+- replicate-google-colab-example/1.0 User-Agent
 
 ###   Set API Token
 Set your Replicate token in environment variable:
 
 
 ```python
-Copy code
 os.environ["REPLICATE_API_TOKEN"] = "your_token"
 ```
 
