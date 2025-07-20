@@ -1,5 +1,4 @@
-# ibm-capstone
-# IBM Granite Medical Analysis with LLM (500 Records)
+# IBM Granite Medical Analysis with LLM 
 
 This project processes a Clinical Text Classification dataset (`mtsamples.csv`) using IBM's Granite 8B instruct LLM model via Replicate API, and generates structured output:
 - Analytical Result
